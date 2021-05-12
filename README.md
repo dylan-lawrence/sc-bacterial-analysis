@@ -1,2 +1,4 @@
-# sc-bacterial-analysis
-Tools and scripts for analyzing single-cell bacteria data
+# Single Cell Bacterial Analysis
+
+Tools and scripts for analyzing single-cell bacteria data.
+
